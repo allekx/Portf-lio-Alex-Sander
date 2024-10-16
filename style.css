@@ -9,16 +9,20 @@
 
 body {
   background: #0B0A0A;
-
+  font-family: "DM Sans", sans-serif;
 }
 
 header {
-  font-family: "DM Sans", sans-serif;
   background: #0F0D12;
   display: flex;
   justify-content: space-between;
-  text-align: center;
   align-items: center;
+  text-align: center;
+  position: fixed;
+  top: 0; 
+  width: 100%;
+  z-index: 1000; 
+  padding: 10px 0;
 }
 
 header img {
@@ -42,7 +46,9 @@ header ul li a {
   text-decoration: none;
   color: white;
 }
+
 .section1 {
+  margin-top: 5rem;
   font-family: "DM Sans", sans-serif;
   background: #0F0D12;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
