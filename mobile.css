@@ -1,6 +1,5 @@
 @media (max-width: 480px) {
-
-  header {
+der {
     width: 100%;
   }
   header img {
@@ -50,6 +49,7 @@
 
   .section4, .container-projetos {
 
+    margin: 0rem;
     margin-top: 4rem;
     width: 98.6%;
     display: flex;
