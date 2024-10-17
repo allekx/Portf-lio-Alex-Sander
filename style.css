@@ -6,6 +6,9 @@
   padding: 0px;
 
 }
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   background: #d4d4d4;
