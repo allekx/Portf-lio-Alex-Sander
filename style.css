@@ -51,7 +51,7 @@ header ul li a {
 }
 
 .section1 {
-  margin-top: 5rem;
+  margin-top: 5.2rem;
   font-family: "DM Sans", sans-serif;
   background: #0F0D12;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
@@ -108,6 +108,7 @@ h1 span {
 
 .section1 img {
   padding: 10px;
+  border-radius: 40px;
 }
 
 .section2 {
